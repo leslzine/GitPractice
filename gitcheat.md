@@ -9,3 +9,4 @@ git log
 git add .
 git commit -m "[clear message describing the changes you made]"
 git push origin master
+git reset to take back staged changes
